@@ -34,3 +34,4 @@ console.log({fullname:'John', age:20})
 console.log(null);
 //Undefined
 console.log(undefined)
+
